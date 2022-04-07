@@ -73,7 +73,7 @@ a {
 }
 
 a:link, a:visited {
-	color: #f7b600;
+	color: #2102B8;
 }
 
 a:hover {
@@ -86,7 +86,7 @@ a:hover {
 }
 
 #area-cabecalho a:hover {
-	color: #f7b600;
+	color: #2102B8;
 	background: #FFF;
 	text-decoration: none;
 }
@@ -100,7 +100,7 @@ h1 {
 }
 
 h2 {
-	color: #f7b600;
+	color: #654AEE;
 }
 
 h3 {
