@@ -121,7 +121,19 @@ h3 {
 	display: block;
 }
 
+.PARAGRAFO {
+	font-size: 20px;
+}
 
+#listacdg {
+	font-size: 20px;
+	padding: 10px;
+	
 
+}
 
-
+#cabecalhodoscodigos {
+	color: #654AEE;
+	padding: 5px;
+	text-align: center;
+}
