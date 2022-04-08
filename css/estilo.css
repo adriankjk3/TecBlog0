@@ -55,7 +55,7 @@ body {
 .postagem-lateral {
 	font-size: 0.8em;
 	padding: 5px;
-	border-bottom: 1px dotted #CCC;
+	border-bottom: 1px dotted;
 }
 
 #rodape {
@@ -104,8 +104,8 @@ h2 {
 }
 
 h3 {
-	color: #565656;
-	background: #CCC;
+	color:white;
+	background:#2102B8 ;
 	padding: 5px;
 }
 
@@ -152,4 +152,14 @@ h3 {
 #listacdgmobile {
 	font-size: 20px;
 	padding: 30px;	
+}
+
+#rodapejogos {
+	text-align: end;
+}
+
+.botaovoltar {
+	color: #2102B8;
+	background: #FFF;
+	text-decoration: none;
 }
