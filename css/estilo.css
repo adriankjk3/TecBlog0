@@ -50,6 +50,8 @@ body {
 	background: white;
 	padding: 10px;
 	margin-bottom: 20px;
+	text-align: top;
+
 }
 
 .postagem-lateral {
@@ -162,4 +164,15 @@ h3 {
 	color: #2102B8;
 	background: #FFF;
 	text-decoration: none;
+}
+
+#obs {
+	color: red;
+	font-size: 20px;
+	padding: 15px;	
+}
+
+.ativo{
+    background: #9D9DEA;
+	color: #000000;
 }
